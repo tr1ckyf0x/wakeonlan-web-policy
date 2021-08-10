@@ -1,0 +1,25 @@
+.SupportFormHeader {
+    /* width: 100px;
+    height: 100px; */
+    /* width: 100%; */
+    /* background-color: white; */
+    /* border: red solid 1px; */
+    /* margin: 100;
+    padding: 100; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#AppIcon {
+    width: 300px;
+    height: 300px;
+    pointer-events: none;
+}
+
+#FormTitle {
+    font-size: 64pt;
+    color: #636469;
+    text-align: center;
+}
